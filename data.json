@@ -1,4 +1,24 @@
 {
-    "bruh": "moment",
-    "jannes": "pracht" 
+  "ritmes_van_de_wereld": [
+    {
+      "titel": "Funk",
+      "beschrijving": "Funk ontstond in de jaren 60 en draait volledig rond groove en de eerste tel van de maat, ook wel de 'one' genoemd. Bas en drums vormen samen de kern van het ritme en zorgen voor een strak, dansbaar gevoel. Funkmuziek nodigt bijna automatisch uit tot bewegen."
+    },
+    {
+      "titel": "Samba",
+      "beschrijving": "Samba komt uit Brazilië en wordt vaak gespeeld tijdens carnaval door grote percussiegroepen. Het ritme klinkt vrolijk en energiek, maar zit vol syncope en tegenaccenten. Elke sambastijl heeft zijn eigen karakter en tempo."
+    },
+    {
+      "titel": "Tarantella",
+      "beschrijving": "De tarantella is een snelle Italiaanse dans die oorspronkelijk zou helpen tegen de beet van een tarantaspin. Het ritme is opzwepend en meestal gebaseerd op een snel 6/8-gevoel. Muziek en beweging zijn sterk met elkaar verbonden."
+    },
+    {
+      "titel": "Taiko patterns",
+      "beschrijving": "Taiko is een Japanse drumtraditie waarin ritme, lichaam en discipline samenkomen. De patronen zijn krachtig, repetitief en maken bewust gebruik van stilte. De visuele uitvoering is bijna even belangrijk als het geluid."
+    },
+    {
+      "titel": "Afro-Cuban clave",
+      "beschrijving": "De clave vormt de basis van veel Afro-Cubaanse muziek en bestaat meestal uit een 2–3 of 3–2 patroon. Het is een structureel ritme waar alle andere instrumenten zich naar richten. Zonder clave verliest de muziek haar samenhang."
+    }
+  ]
 }
